@@ -3,7 +3,7 @@ TiCaching
 
 **Version:** 1.0
 
-**TiCaching** is a Commonjs module for caching data objects in [Appcelerator's Titanium Mobile](http://www.appcelerator.com/platform/titanium-sdk) applications, useful for cache data returned from REST APIs. It is based on my [Caching library](https://github.com/gbaldera/CI-Caching/) for Codeigniter.
+**TiCaching** is a Commonjs module for caching data objects in apps made with [Appcelerator's Titanium Mobile](http://www.appcelerator.com/platform/titanium-sdk), useful for cache data returned from REST APIs. It is based on my [Caching library](https://github.com/gbaldera/CI-Caching/) for Codeigniter.
 
 Usage
 ================
