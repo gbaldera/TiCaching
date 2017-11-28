@@ -12,13 +12,13 @@ Usage
 
 Just copy the "ticaching.js" anywhere in your project's Resources directory and references it like this:
 
-```
+```js
 var caching = require('ticaching');
 ```
 
 After that, use the caching functions:
 
-```
+```js
 //cached some data
 var data = {'name': 'Gustavo', 'age': 24, 'country': 'Dominican Republic'}
 caching.save('my_key', data, 60) // cache data for 1 minute
